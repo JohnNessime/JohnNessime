@@ -78,7 +78,8 @@ Recently certified in **Google AI** and **AWS Solutions Architecture**, I focus 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=johnnessime&color=FF9900&style=for-the-badge&label=PROFILE+VIEWS)
-
+[![Credly Badges](https://img.shields.io/badge/Credly-View_Badges-D04A30?style=for-the-badge&logo=credly)](https://www.credly.com/users/john-nessime)
+- 
 *"Data is the new oil — I'm here to refine it."*
 
 </div>
