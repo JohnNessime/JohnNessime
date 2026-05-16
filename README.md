@@ -70,8 +70,8 @@ Recently certified in **Google AI** and **AWS Solutions Architecture**, I focus 
 
 ### 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/john-m-nessime) <!-- Replace with your actual LinkedIn URL -->
-- [Email](mailto:john.nessime@gmail.com) <!-- Replace with your actual email -->
+- [LinkedIn](https://www.linkedin.com/in/john-m-nessime) 
+- [Email](mailto:john.nessime@gmail.com) 
 
 
 ---
